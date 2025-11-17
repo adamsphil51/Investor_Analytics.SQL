@@ -1,7 +1,5 @@
--- =====================================================
 -- Project: Investor_Analytics_Dawa
 -- Purpose: Investor-focused revenue, profitability, and market share analysis
--- =====================================================
 
 -- 1. Drugs table
 CREATE TABLE Drugs (
