@@ -1,4 +1,4 @@
-# Investor_Analytics_Dawa
+# Investor_Analytics
 
 This project demonstrates **investor-focused analytics** for a pharmaceutical company in Kenya.  
 
